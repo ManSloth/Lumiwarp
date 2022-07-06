@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 3a31a3b8109f1b44a8d8684c7aa75094
+timeCreated: 1489258953
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shift: {fileID: 21300000, guid: aedfefa785c3c4259b2354eec2ec8a08, type: 3}
+  - classic: {instanceID: 0}
+  - sequence: {instanceID: 0}
+  - memory: {instanceID: 0}
+  - sprint: {instanceID: 0}
+  - tug: {instanceID: 0}
+  - blank: {instanceID: 0}
+  - menu: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
